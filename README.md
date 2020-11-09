@@ -28,7 +28,7 @@ Tastatur
             |
            USB -Tastatur
             |
-Raspberry Pi Zero W - mit Sisplay                             
+Raspberry Pi Zero W - mit Display                             
 ```                                
 +--------------------------+           +-----------------------------+    
 |() 2#################40 ()|           | Crypto HID  online          |
